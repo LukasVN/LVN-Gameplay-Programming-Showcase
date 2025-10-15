@@ -13,7 +13,7 @@ This section focuses on a **3D third-person movement system** with the following
 - Walking backwards with proper rotation animation logic
 - Free orbiting camera with adjustable sensitivity and pitch clamping
 - Smooth rotation coordinated with camera direction
-- Fully animated character (animations handled externally on the unreal script, code is independent of animation logic)
+- Fully animated character from Mixamo (animations handled externally on the unreal script, code is independent of animation logic)
 - Dance ability can be triggered when idle (ends automatically when movement starts)
 - Customizable parameters: walk speed, sprint speed, camera pitch and sensitivity, step offset, slope angle...
 - Works for both **keyboard & mouse** and **gamepad controllers**, if properly configured
