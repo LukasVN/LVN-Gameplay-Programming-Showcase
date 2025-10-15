@@ -2,6 +2,8 @@
 
 Welcome to the public repository for the **LVN Gameplay Programming Showcase** series. This series focuses on recreating gameplay mechanics and core systems in **Unreal Engine (C++ and Blueprints)** and **Unity (C#)**, with an emphasis on clean, engine-agnostic code design and functional prototypes.
 
+All mechanics were **implemented from scratch** to ensure a deep understanding of how the systems work and how to handle them independently.
+
 ---
 
 ## Repository Structure
@@ -21,7 +23,7 @@ This structure allows you to explore each mechanic individually without needing 
 
 These scripts demonstrate the mechanics themselves, but **do not include full engine setup instructions**. To recreate or use any of these mechanics in your own project, some connections or configurations may be required (e.g., assigning input actions, linking components, or setting up camera rigs).  
 
-The focus is on **showcasing gameplay logic**, not providing ready-to-run projects.
+The focus is on **showcasing gameplay logic**, modular code, and engine-agnostic principles, not providing ready-to-run projects.
 
 ---
 
