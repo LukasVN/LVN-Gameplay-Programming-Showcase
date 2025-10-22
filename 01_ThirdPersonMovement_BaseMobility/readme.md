@@ -4,7 +4,11 @@ Welcome to the Base Mobility section of the LVN Gameplay Programming Showcase se
 
 This section demonstrates a fully functional third-person movement system implemented in both **Unity (C#)** and **Unreal Engine (C++ & Blueprint screenshots)**.
 
-## Overview
+<h2 align="center">Overview</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a636ccfc-e654-406a-90d1-e23151ee5758" width="600px" />
+</p>
 
 This section focuses on a **3D third-person movement system** with the following features:
 
