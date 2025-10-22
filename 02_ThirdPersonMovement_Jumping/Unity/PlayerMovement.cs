@@ -7,9 +7,6 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float walkSpeed = 2f;
     [SerializeField] private float runSpeed = 5f;
     [SerializeField] private float rotationSpeed = 4f;
-    [SerializeField] private float gravity = -20f;
-    [SerializeField] private float jumpForce = 10f;
-    [SerializeField] private float flipForce = 8f;
 
     [Header("Falling Settings")]
     [SerializeField] private float fallingVelocityThreshold = -1f;
@@ -17,6 +14,9 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float fallGraceTime = 0.05f;
 
     [Header("Jump Settings")]
+    [SerializeField] private float gravity = -20f;
+    [SerializeField] private float jumpForce = 10f;
+    [SerializeField] private float flipForce = 8f;
     [SerializeField] private bool allowDoubleJump = true;
     [SerializeField] private float jumpInputBufferTime = 0.01f;
 
