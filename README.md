@@ -49,3 +49,10 @@ The goal is to demonstrate the ability to implement mechanics across engines and
 ## Disclaimer
 
 These examples are **functional prototypes**, not full polished games. Each entry focuses on mechanics, code structure, and engine-agnostic principles.
+
+<p align="center">
+  <strong>Author:</strong> Lucas Varela Negro<br>
+  <a href="https://www.linkedin.com/in/lucas-varela-negro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</p>
