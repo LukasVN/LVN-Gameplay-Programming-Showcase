@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasvn&label=%20Views&color=0e75b6&style=flat" alt="lukasvn" /> </p>
+
 # LVN Gameplay Programming Showcase
 
 Welcome to the public repository for the **LVN Gameplay Programming Showcase** series. This series focuses on recreating gameplay mechanics and core systems in **Unreal Engine (C++ and Blueprints)** and **Unity (C#)**, with an emphasis on clean, engine-agnostic code design and functional prototypes.
