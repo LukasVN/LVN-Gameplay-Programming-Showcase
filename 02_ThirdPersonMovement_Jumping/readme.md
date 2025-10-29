@@ -12,7 +12,7 @@ Building on the [**01 Base Mobility**](https://github.com/LukasVN/LVN-Gameplay-P
 
 The system uses animation-driven jumping, where jump and flip (double jump) forces are triggered by keyframe events in the animations. This ensures smooth coordination between gameplay and animation, keeping visual timing consistent, even if the responsiveness differs slightly from purely code-driven jumps.
 
-Key features include:
+<h3>Key features include:</h3>
 
 - Jump input buffering for more responsive controls
 
