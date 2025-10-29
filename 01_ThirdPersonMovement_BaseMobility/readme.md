@@ -10,7 +10,7 @@ This section demonstrates a fully functional third-person movement system implem
   <img src="https://github.com/user-attachments/assets/a636ccfc-e654-406a-90d1-e23151ee5758" width="600px" />
 </p>
 
-This section focuses on a **3D third-person movement system** with the following features:
+<h3>This section focuses on a 3D Third-Person Movement System with the following features:</h3>
 
 - Basic walking in all directions
 - Sprinting while moving forward or sideways (never backward)
